@@ -1,0 +1,4 @@
+com/autentia/heroku/Application.class
+com/autentia/heroku/controller/HelloWorldController.class
+com/autentia/heroku/repository/HelloRepository.class
+com/autentia/heroku/service/HelloService.class
