@@ -3,11 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="9e6f3772-0f12-468e-805a-8caf44b1e7ba" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/controller/HelloWorldController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/controller/HelloWorldController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/repository/HelloRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/repository/HelloRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/service/HelloService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/autentia/heroku/service/HelloService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +48,20 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
   </component>
   <component name="RunManager">
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="SpringBootExample" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.autentia.heroku.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.autentia.heroku.Application" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="SpringBootExample" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.autentia.heroku.Application" />
@@ -59,6 +70,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -82,7 +98,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1574931250899</updated>
-      <workItem from="1574931255361" duration="1548000" />
+      <workItem from="1574931255361" duration="2155000" />
+      <workItem from="1575465878294" duration="109000" />
     </task>
     <servers />
   </component>
@@ -98,5 +115,9 @@
       <screen x="0" y="23" width="1440" height="822" />
     </state>
     <state x="457" y="212" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1440.822@0.23.1440.822" timestamp="1574932510463" />
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog" timestamp="1575465878384">
+      <screen x="0" y="23" width="1440" height="822" />
+    </state>
+    <state x="397" y="254" key="com.intellij.ide.util.TipDialog/0.23.1440.822@0.23.1440.822" timestamp="1575465878384" />
   </component>
 </project>
